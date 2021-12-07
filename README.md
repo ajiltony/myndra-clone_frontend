@@ -1,2 +1,2 @@
-# myndra-clone_frontend_backend
+# myndra-clone_frontend
 REACT PROJECT
